@@ -1,2 +1,38 @@
 
 /* Your CSS Code here. */
+body{
+    text-align: center;
+    padding: 350px;
+    
+}
+
+
+#input{
+     color:blue;
+     background-color: aqua; 
+     border-radius:black;
+     
+}
+#block0,#block1,#block2,#block3,#block4,#block5,#block6,#block7,#block8,#block9{
+    margin-top: 1px;
+    color: red;
+    background-color: yellow;
+    border-radius: 2px;
+    border-color: red;
+}
+#plus,#minus,#multiply,#divide{
+    padding: 2px;
+    margin: 2px;
+    color:blueviolet;
+    border-radius: 2px;
+    border-color: greenyellow;
+    background-color: #ff822f;
+}
+#ans,#clr{
+    padding: 4px;
+    margin: 4px;
+    color:rgb(218, 61, 25);
+    border-radius: 4px;
+    border-color: rgba(255, 47, 227, 0.719);
+    background-color: #2fff2f;
+}
