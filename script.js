@@ -2,7 +2,6 @@
 let input=document.getElementById("input");
 let expression= "";
 function solve(e){
-   // console.log(e)
    if(e =='ans'){
  let result=eval(expression);
  input.value=result;
